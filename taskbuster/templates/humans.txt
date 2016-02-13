@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Terhune -- Developer -- @jason_terhune
 
 # THANKS
 
-    <name>
+    Thanks to the world for all that you do.
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
+	Django
+    HTML5, Boilerplate
     jQuery, Modernizr
